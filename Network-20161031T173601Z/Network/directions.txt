@@ -1,0 +1,15 @@
+
+
+1) start up 1 exe
+2) start up 2nd exe in debug
+3) decide which exe will be client and which
+   will be the server
+4) type in the ip address into the client exe
+5) type the character 's' in the server exe
+6) type the character 'c' in the clienct exe
+7) type either a 1 or 2 in the client.
+   you should see that value added to both client
+   and server
+8) now go back and forth between server and client
+   and type either a 1 or 2 and see that added
+   and updated in both exes.
